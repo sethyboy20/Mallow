@@ -2,7 +2,7 @@
 by the SWErve Team
 
 ## Project Status 
-This project is currently in the *design* phase.
+This project has been *completed*.
 
 ## Project Description
 **Mallow** is a meal planning, recipe, and grocery app designed to help you take control of your food routine. Deciding what to eat can be frustrating. Finding the right recipe once you have an idea can be even worse. And forgetting an ingredient at the grocery store... you get the picture. Mallow is a one-stop shop to help you meal plan for the week, save recipes for later, determine what you can make with groceries you already have, and list what groceries you need.
